@@ -1,0 +1,9 @@
+{
+    "todos" : [
+        {
+            "id" : 1,
+            "status" : "pending",
+            "name" : "MERN stack developer"
+        }
+    ]
+}
